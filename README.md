@@ -1,2 +1,2 @@
 # usd_currency_converter
-over complicated currency converter lul
+Over complicated currency converter lul. I could probably make this waaaayyyy simpler but...
