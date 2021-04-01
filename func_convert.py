@@ -10,7 +10,7 @@ def convert(convTo, numInput):                  #define function, currency to co
     for name, value in rates.items():           #assigns variables to key, value in file
         if convTo in name:                      #if input is in the list of available things to convert to
             numInputFloat = float(numInput)          
-            result = value*numInputFloat        #math
+            result = value*numInputFloat
             print(f"{numInputFloat} USD is {result} {convTo}")
             break
 
